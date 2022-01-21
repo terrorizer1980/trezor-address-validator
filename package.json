@@ -61,7 +61,7 @@
     "cbor-js": "^0.1.0",
     "crc": "^3.8.0",
     "groestl-hash-js": "1.0.0",
-    "jssha": "2.3.1",
+    "jssha": "2.4.2",
     "lodash": "^4.17.15"
   },
   "devDependencies": {
